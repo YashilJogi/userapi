@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/userapi/static/css/main.fe5598e1.css",
+    "main.js": "/userapi/static/js/main.cd3533bb.js",
+    "index.html": "/userapi/index.html",
+    "main.fe5598e1.css.map": "/userapi/static/css/main.fe5598e1.css.map",
+    "main.cd3533bb.js.map": "/userapi/static/js/main.cd3533bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5598e1.css",
+    "static/js/main.cd3533bb.js"
+  ]
+}
